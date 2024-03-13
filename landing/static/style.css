@@ -15,17 +15,16 @@ body{
     display: flex;
     justify-content: space-between;
     align-items: center;
-    padding-top: 20px;
 }
 
 .logo img{
     height: fit-content;
     width: 150px;
-    margin-left: 40%;
+    margin-left: -10%;
 }
 
 .nav{
-    padding-top: 20px;
+    padding-top: 100px;
     width: 500px;
     align-items: center;
 }
